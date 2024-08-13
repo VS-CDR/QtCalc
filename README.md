@@ -1,2 +1,3 @@
 # QtCalc
-My second project on Qt.
+
+Calculator impl on Qt
